@@ -1,0 +1,2 @@
+# Requires: virtual-duration
+# (Not available on PyPI)
